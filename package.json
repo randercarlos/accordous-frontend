@@ -1,5 +1,5 @@
 {
-	"name": "sigma-vue",
+	"name": "accordous-frontend",
 	"version": "3.0.0",
 	"repository": {
 		"type": "git",
@@ -40,5 +40,8 @@
 		"sass-loader": "^8.0.2",
 		"vue": "3.0.2",
 		"vue-router": "^4.0.0-0"
+	},
+	"dependencies": {
+		"vee-validate": "^3.4.3"
 	}
 }
