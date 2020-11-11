@@ -1,5 +1,5 @@
 <h4 align="center">
-  🚀 Sistema de Vendas - Teste técnico
+  🚀 Sistema de Gerenciamento de Contratos - Teste técnico
 </h4>
 
 <p align="center">
@@ -57,7 +57,7 @@ Baixe o arquivo zip e o descompacte ou baixe o projeto para sua máquina atravé
 cd ir-ate-a-pasta-do-projeto
 ```
 
-- Instale as dependências do Angular através do comando:
+- Instale as dependências do Vue através do comando:
 
 ```sh
 npm install
